@@ -1,0 +1,17 @@
+{
+  "name": "donkey-kong-sheet-maker",
+  "version": "1.0.0",
+  "description": "J.D. goofing around with MAME debug scripts and Google Sheets API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J.D. Lowe",
+  "license": "ISC",
+  "dependencies": {
+    "google-spreadsheet": "^1.0.1"
+  },
+  "window": {
+	"toolbar": false
+  }
+}

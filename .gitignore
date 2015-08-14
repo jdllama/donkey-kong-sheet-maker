@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Stuff that JD is not including because he is mean
+donkey-kong-sheet.exe
+compile.bat
+compiled.nw
+locales
+node_modules
+node_modules/google-spreadsheet/ignore/test.js
